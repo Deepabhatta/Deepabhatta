@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Deepabhatta
-- 👀 I’m interested in “Web Development |UI/UX| DBMS | MongoDB”
+- 👋 Hi, I’m @Deepa Bhat
+- 👀 I’m interested in “Fullstack Development | UI/UX| RDBMS| Nosql”
 - 🌱 I’m currently learning Computer Science and Engineering at Sahyadri College of Engineerong and Management
 
 <!---
